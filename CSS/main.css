@@ -61,3 +61,23 @@ main
     margin-top: 150px;
     text-align: center;
 }
+
+main .main-logo
+{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+/*La imagen ya tiene las dimensiones necesarias, pero si no fuera así, este estilo le da el tamaño adecuado*/
+main .main-logo img
+{
+    height: 92px;
+    width: 272px;
+}
+
+main .main-input
+{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
